@@ -15,7 +15,7 @@
     <p>I'm a 3rd-year NUS Information Systems student specializing in Financial Technology. I enjoy coding, reading, writing, and theatre.</p>
 </div>
 
-<h2 align="center" class="section-heading"> Connect with me! </h2>
+<h2 align="center" class="section-heading"> ☎️ Connect with me! </h2>
 <div align="center">
     <p> Shoot me a DM on LinkedIn! Let's connect. </p>
     <a href="https://www.linkedin.com/in/nur-aliya-b-8390bb127/">
@@ -45,4 +45,24 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 📋 Github Stats</h2>
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-3-3-3&theme=github_dark" alt="Ali's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-3-3-3&theme=merko" alt="Ali's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ali-3-3-3&theme=github_dark" alt="Ali's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ali-3-3-3&theme=github_dark&utcOffset=10" alt="Ali's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ali-3-3-3&theme=github_dark" alt="Ali's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-3-3-3&theme=github_dark" alt="Ali's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
