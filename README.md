@@ -6,6 +6,6 @@
 
 <div align="center">
     <p>
-        <img src="[URL_OF_YOUR_GIF.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNzdDBsbGVoZGM3OHJhYWtqeXRpa2ZqaG5kd2R6Y2RkOTBmOWlmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3Z5ChEO3lFSb3q/giphy.gif)" alt="Typing on computer." />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNzdDBsbGVoZGM3OHJhYWtqeXRpa2ZqaG5kd2R6Y2RkOTBmOWlmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26u3Z5ChEO3lFSb3q/giphy.gif" alt="Typing on computer." />
     </p>
 </div>
