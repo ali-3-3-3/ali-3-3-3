@@ -16,20 +16,20 @@
 </div>
 
 <h2 align="center" class="section-heading"> Connect with me! </h2>
-<p> DM me on LinkedIn! </p>
 <div align="center">
+    <p> Shoot me a DM on LinkedIn! Let's connect. </p>
     <a href="https://www.linkedin.com/in/nur-aliya-b-8390bb127/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions. </p>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" alt="Perl"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
