@@ -12,7 +12,7 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a 3rd-year NUS Information Systems student specializing in Financial Technology. I enjoy coding, reading, writing, and theatre.</p>
+    <p>I'm a 4th-year NUS Information Systems student specializing in Financial Technology. I enjoy coding, reading, writing, and theatre.</p>
 </div>
 
 <h2 align="center" class="section-heading"> ☎️ Connect with me! </h2>
